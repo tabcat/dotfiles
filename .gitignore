@@ -4,5 +4,9 @@
 # But not these files...
 !.gitignore
 !.gitconfig
+!.config
+!.config/
+!.config/alacritty
+!.config/alacritty/alacritty.yml
 
 
