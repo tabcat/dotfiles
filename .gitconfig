@@ -1,0 +1,13 @@
+[user]
+  name = tabcat
+  email = tabcat00@proton.me
+  signingkey = /home/tabcat/.ssh/tabcat00.pub
+[credential]
+  helper = store
+[gpg]
+  format = ssh
+[commit]
+  gpgsign = true
+[tag]
+  gpgsign = true
+
