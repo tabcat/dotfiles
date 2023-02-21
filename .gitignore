@@ -9,5 +9,5 @@
 !.config/
 !.config/alacritty
 !.config/alacritty/alacritty.yml
-
+!.zshrc
 
