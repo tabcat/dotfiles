@@ -10,4 +10,5 @@
 !.config/alacritty
 !.config/alacritty/alacritty.yml
 !.zshrc
+!.p10k.zsh
 
