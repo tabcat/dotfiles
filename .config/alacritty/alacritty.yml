@@ -96,10 +96,6 @@ window:
   dimensions:
     columns: 100
     lines: 25
-  padding:
-    x: 18
-    y: 16
-  dynamic_padding: false
   decorations: None
 
   # Window dimensions (changes require restart)
