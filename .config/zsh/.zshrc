@@ -34,7 +34,7 @@ export PATH=$PATH:$HOME/go/bin
 export LESS="--no-init --quit-if-one-screen -R"
 
 # Path to your oh-my-zsh installation.
-export ZSH="$HOME/.oh-my-zsh"
+export ZSH="$ZDOTDIR/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,

@@ -9,7 +9,10 @@
 !.config/
 !.config/alacritty
 !.config/alacritty/alacritty.yml
+!.zshenv
+!.config/zsh
+!.config/zsh/.zshrc
+!.config/zsh/.zshenv
 !.tmux.conf
-!.zshrc
 !.p10k.zsh
 

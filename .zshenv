@@ -1,0 +1,1 @@
+/home/tabcat/.config/zsh/.zshenv
