@@ -241,7 +241,7 @@ schemes:
 #window:
 
 window:
-  opacity: .95
+  opacity: .92
   dimensions:
     columns: 100
     lines: 25
