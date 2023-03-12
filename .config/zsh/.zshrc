@@ -144,3 +144,11 @@ autoload zmv
 [[ ! -f $ZDOTDIR/.p10k.zsh ]] || source $ZDOTDIR/.p10k.zsh
 
 fpath+=${ZDOTDIR:-~}/.zsh_functions
+
+# pnpm
+export PNPM_HOME="/home/tabcat/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
